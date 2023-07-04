@@ -12,5 +12,8 @@ Overall, this simulation provides insights into the dynamics and behavior of cer
 
 ![CerS1_opt_ev2frames_5ns.gif](https://github.com/paulshamrat/230704_CerS/raw/8bab7cfd60246bc38c1f1c554f946e5cb530eff3/CerS1_opt_ev2frames_5ns.gif)
 
+*Fig 1. **Exploring Conformational Dynamics of Ceramide Synthase 1 through a 5ns Molecular Dynamics Simulation.** In this simulation, the behavior of Ceramide Synthase 1 (CerS1) was investigated over a 5 nanosecond (ns) period. The OPLS force field was utilized to accurately represent the molecular interactions within the system. Throughout the simulation, CerS1 exhibited intriguing conformational changes, revealing the flexibility and adaptability of the enzyme.*
+
 ![CerS2_5ns.gif](https://github.com/paulshamrat/230704_CerS/raw/8bab7cfd60246bc38c1f1c554f946e5cb530eff3/CerS2_5ns.gif)
 
+*Fig 2. **Exploring Conformational Dynamics of Ceramide Synthase 2 through a 5ns Molecular Dynamics Simulation.** In this simulation, the behavior of Ceramide Synthase 2 (CerS2) was investigated over a 5 nanosecond (ns) period. The OPLS force field was utilized to accurately represent the molecular interactions within the system. Throughout the simulation, CerS2 exhibited intriguing conformational changes, revealing the flexibility and adaptability of the enzyme.*
