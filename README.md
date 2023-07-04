@@ -10,6 +10,31 @@ Velocity generation is turned off in this simulation, meaning the initial veloci
 
 Overall, this simulation provides insights into the dynamics and behavior of ceramide synthase 1 and 2 over a 5ns timeframe, aiding in the understanding of their role in lipid synthesis and cellular processes.
 
+## Fundamental Dynamics Analysis
+
+### Root Mean Square Deviation (RMSD)
+![RMSD Plot](https://github.com/paulshamrat/230704_CerS/raw/main/rmsd_plot_230425.png)
+*The Root Mean Square Deviation (RMSD) plot reveals the conformational dynamics of Ceramide Synthase 1 (CerS1) and Ceramide Synthase 2 (CerS2) during the molecular dynamics simulation. The RMSD measures the deviation of each protein structure from its initial conformation. Interestingly, the RMSD profiles of CerS1 and CerS2 display distinct patterns, indicating differences in their structural stability and conformational changes throughout the simulation. These findings shed light on the unique functional properties and regulatory mechanisms of CerS1 and CerS2 in ceramide biosynthesis.*
+
+### Root Mean Square Fluctuation (RMSF)
+![RMSF Plot](https://github.com/paulshamrat/230704_CerS/raw/main/rmsf_ca_230425.png)
+*The Root Mean Square Fluctuation (RMSF) plot illustrates the flexibility and dynamic behavior of specific residues in Ceramide Synthase 1 (CerS1) and Ceramide Synthase 2 (CerS2) during the molecular dynamics simulation. By measuring the deviations of each residue from their average positions, the RMSF plot provides insights into the regions that undergo significant fluctuations. Comparing the RMSF profiles of CerS1 and CerS2 highlights their unique residue-level dynamics, which could be associated with their distinct functional roles and interactions within the ceramide synthesis pathway.*
+
+### Radius of Gyration (RG)
+![RG Plot](https://github.com/paulshamrat/230704_CerS/raw/main/rg_230425.png)
+*The Radius of Gyration (RG) plot depicts the compactness and overall size of Ceramide Synthase 1 (CerS1) and Ceramide Synthase 2 (CerS2) during the molecular dynamics simulation. The RG values measure the average distance of each atom in the protein from the center of mass, providing insights into the protein's overall shape and conformation. Comparing the RG profiles of CerS1 and CerS2 reveals potential differences in their compactness and conformational flexibility. These observations suggest distinct structural properties and conformational changes between CerS1 and CerS2, which may contribute to their specific enzymatic activities and substrate recognition in ceramide biosynthesis.*
+
+## Conformational Changes during 5ns Simulation
+
+![CerS1_opt_ev2frames_5ns.gif](https://github.com/paulshamrat/230704_CerS/raw/8bab7cfd60246bc38c1f1c554f946e5cb530eff3/CerS1_opt_ev2frames_5ns.gif)
+
+*Fig. **Conformational Dynamics of Ceramide Synthase 1.** In this simulation, the behavior of Ceramide Synthase 1 (CerS1) was investigated over a 5 nanosecond (ns) period. The OPLS force field was utilized to accurately represent the molecular interactions within the system. Throughout the simulation, CerS1 exhibited intriguing conformational changes, revealing the flexibility and adaptability of the enzyme.*
+
+![CerS2_5ns.gif](https://github.com/paulshamrat/230704_CerS/raw/8bab7cfd60246bc38c1f1c554f946e5cb530eff3/CerS2_5ns.gif)
+
+*Fig. **Conformational Dynamics of Ceramide Synthase 2.** In this simulation, the behavior of Ceramide Synthase 2 (CerS2) was investigated over a 5 nanosecond (ns) period. The OPLS force field was utilized to accurately represent the molecular interactions within the system. Throughout the simulation, CerS2 exhibited intriguing conformational changes, revealing the flexibility and adaptability of the enzyme.*
+
+
 ## Protocol
 1. **System Setup:**
    - Define the system: Ceramide Synthase 1 (CerS1) or Ceramide Synthase 2 (CerS2).
@@ -60,31 +85,6 @@ Overall, this simulation provides insights into the dynamics and behavior of cer
 
 10. **Velocity Generation:**
     - Specify whether or not to generate initial velocities for the system.
-
-
-## Fundamental Dynamics Analysis
-
-### Root Mean Square Deviation (RMSD)
-![RMSD Plot](https://github.com/paulshamrat/230704_CerS/raw/main/rmsd_plot_230425.png)
-*The Root Mean Square Deviation (RMSD) plot reveals the conformational dynamics of Ceramide Synthase 1 (CerS1) and Ceramide Synthase 2 (CerS2) during the molecular dynamics simulation. The RMSD measures the deviation of each protein structure from its initial conformation. Interestingly, the RMSD profiles of CerS1 and CerS2 display distinct patterns, indicating differences in their structural stability and conformational changes throughout the simulation. These findings shed light on the unique functional properties and regulatory mechanisms of CerS1 and CerS2 in ceramide biosynthesis.*
-
-### Root Mean Square Fluctuation (RMSF)
-![RMSF Plot](https://github.com/paulshamrat/230704_CerS/raw/main/rmsf_ca_230425.png)
-*The Root Mean Square Fluctuation (RMSF) plot illustrates the flexibility and dynamic behavior of specific residues in Ceramide Synthase 1 (CerS1) and Ceramide Synthase 2 (CerS2) during the molecular dynamics simulation. By measuring the deviations of each residue from their average positions, the RMSF plot provides insights into the regions that undergo significant fluctuations. Comparing the RMSF profiles of CerS1 and CerS2 highlights their unique residue-level dynamics, which could be associated with their distinct functional roles and interactions within the ceramide synthesis pathway.*
-
-### Radius of Gyration (RG)
-![RG Plot](https://github.com/paulshamrat/230704_CerS/raw/main/rg_230425.png)
-*The Radius of Gyration (RG) plot depicts the compactness and overall size of Ceramide Synthase 1 (CerS1) and Ceramide Synthase 2 (CerS2) during the molecular dynamics simulation. The RG values measure the average distance of each atom in the protein from the center of mass, providing insights into the protein's overall shape and conformation. Comparing the RG profiles of CerS1 and CerS2 reveals potential differences in their compactness and conformational flexibility. These observations suggest distinct structural properties and conformational changes between CerS1 and CerS2, which may contribute to their specific enzymatic activities and substrate recognition in ceramide biosynthesis.*
-
-## Conformational Changes during 5ns Simulation
-
-![CerS1_opt_ev2frames_5ns.gif](https://github.com/paulshamrat/230704_CerS/raw/8bab7cfd60246bc38c1f1c554f946e5cb530eff3/CerS1_opt_ev2frames_5ns.gif)
-
-*Fig. **Conformational Dynamics of Ceramide Synthase 1.** In this simulation, the behavior of Ceramide Synthase 1 (CerS1) was investigated over a 5 nanosecond (ns) period. The OPLS force field was utilized to accurately represent the molecular interactions within the system. Throughout the simulation, CerS1 exhibited intriguing conformational changes, revealing the flexibility and adaptability of the enzyme.*
-
-![CerS2_5ns.gif](https://github.com/paulshamrat/230704_CerS/raw/8bab7cfd60246bc38c1f1c554f946e5cb530eff3/CerS2_5ns.gif)
-
-*Fig. **Conformational Dynamics of Ceramide Synthase 2.** In this simulation, the behavior of Ceramide Synthase 2 (CerS2) was investigated over a 5 nanosecond (ns) period. The OPLS force field was utilized to accurately represent the molecular interactions within the system. Throughout the simulation, CerS2 exhibited intriguing conformational changes, revealing the flexibility and adaptability of the enzyme.*
 
 
 ## References
