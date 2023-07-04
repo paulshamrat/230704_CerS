@@ -10,6 +10,8 @@ Velocity generation is turned off in this simulation, meaning the initial veloci
 
 Overall, this simulation provides insights into the dynamics and behavior of ceramide synthase 1 and 2 over a 5ns timeframe, aiding in the understanding of their role in lipid synthesis and cellular processes.
 
+DATA: Human CerS three-dimensional models are available at [https://alphafold.ebi.ac.uk/] under the following UniProt accession codes: CerS1 and P27544; CerS2
+
 ## Fundamental Dynamics Analysis
 
 ### Root Mean Square Deviation (RMSD)
