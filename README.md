@@ -1,4 +1,4 @@
-# Ceramide Synthase Simulation
+# Exploring Conformational Dynamics of Ceramide Synthases: Insights from Molecular Dynamics Simulations
 
 Ceramide synthase 1 and 2 are enzymes involved in the synthesis of ceramide, a crucial lipid molecule in cellular processes. In this simulation, an OPLS (Optimized Potentials for Liquid Simulations) force field is employed to model and simulate the behavior of these enzymes. The simulation runs for 5 nanoseconds (ns), using a leap-frog integrator with a time step of 2 femtoseconds (fs).
 
