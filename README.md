@@ -70,3 +70,23 @@ Overall, this simulation provides insights into the dynamics and behavior of cer
 ![CerS2_5ns.gif](https://github.com/paulshamrat/230704_CerS/raw/8bab7cfd60246bc38c1f1c554f946e5cb530eff3/CerS2_5ns.gif)
 
 *Fig 2. **Exploring Conformational Dynamics of Ceramide Synthase 2 through a 5ns Molecular Dynamics Simulation.** In this simulation, the behavior of Ceramide Synthase 2 (CerS2) was investigated over a 5 nanosecond (ns) period. The OPLS force field was utilized to accurately represent the molecular interactions within the system. Throughout the simulation, CerS2 exhibited intriguing conformational changes, revealing the flexibility and adaptability of the enzyme.*
+
+
+## References
+
+M.J. Abraham, et al.
+Gromacs: high performance molecular simulations through multi-level parallelism from laptops to supercomputers
+SoftwareX, 1 (2) (2015), pp. 19-25
+
+B. Hess, H. Bekker, H.J.C. Berendsen, J.G.E.M. Fraaije
+LINCS: a linear Constraint solver for molecular simulations
+J. Comput. Chem., 18 (12) (1997), pp. 1463-1472
+
+
+B.J. Grant, L. Skjaerven, X.-Q. Yao
+The Bio3D packages for structural bioinformatics
+Protein Sci., 30 (1) (2021), pp. 20-30
+
+Humphrey, W., Dalke, A. and Schulten, K., 
+VMD - Visual Molecular Dynamics
+J. Molec. Graphics, 1996, vol. 14, pp. 33-38.
