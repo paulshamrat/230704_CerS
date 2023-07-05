@@ -134,3 +134,7 @@ Protein Sci., 30 (1) (2021), pp. 20-30
 Humphrey, W., Dalke, A. and Schulten, K., 
 VMD - Visual Molecular Dynamics
 J. Molec. Graphics, 1996, vol. 14, pp. 33-38.
+
+R. J. Gowers, M. Linke, J. Barnoud, T. J. E. Reddy, M. N. Melo, S. L. Seyler, D. L. Dotson, J. Domanski, S. Buchoux, I. M. Kenney, and O. Beckstein. MDAnalysis: A Python package for the rapid analysis of molecular dynamics simulations. In S. Benthall and S. Rostrup, editors, Proceedings of the 15th Python in Science Conference, pages 98-105, Austin, TX, 2016. SciPy, doi:10.25080/majora-629e541a-00e.
+
+McGibbon, R. T., Beauchamp, K. A., Harrigan, M. P., Klein, C., Swails, J. M., Hernández, C. X., ... & Pande, V. S. (2015). MDTraj: a modern open library for the analysis of molecular dynamics trajectories. Biophysical journal, 109(8), 1528-1532.
