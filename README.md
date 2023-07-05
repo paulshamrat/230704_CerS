@@ -59,7 +59,7 @@ Differences in the shape, peak positions, or spread of the histograms may indica
 
 *Fig. **Conformational Dynamics of Ceramide Synthase 2.** In this simulation, the behavior of Ceramide Synthase 2 (CerS2) was investigated over a 5 nanosecond (ns) period. The OPLS force field was utilized to accurately represent the molecular interactions within the system. Throughout the simulation, CerS2 exhibited intriguing conformational changes, revealing the flexibility and adaptability of the enzyme.*
 
-![CerS3](https://github.com/paulshamrat/230704_CerS/raw/8bab7cfd60246bc38c1f1c554f946e5cb530eff3/cers3.gif)
+![cers3.gif](https://github.com/paulshamrat/230704_CerS/raw/8bab7cfd60246bc38c1f1c554f946e5cb530eff3/cers3.gif)
 
 Fig. **Conformational Dynamics of Ceramide Synthase 3.**
 
