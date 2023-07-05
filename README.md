@@ -14,7 +14,7 @@ This comprehensive simulation study provides valuable insights into the dynamics
 
 For further exploration, three-dimensional models of human CerS proteins can be accessed at [https://alphafold.ebi.ac.uk/]. The UniProt accession codes for these models are as follows:
 
-DATA: Human CerS three-dimensional models are available at [https://alphafold.ebi.ac.uk/] under the following UniProt accession codes: CerS1, P27544; CerS2, Q96G23.
+DATA: Human CerS three-dimensional models are available at [https://alphafold.ebi.ac.uk/] under the followingUniProt accession codes: CerS1, P27544; CerS2, Q96G23; CerS3, Q8IU89; CerS4,Q9HA82; CerS5, Q8N5B7; CerS6, Q6ZMG9. [https://doi.org/10.1038/s41467-023-38047-x]
 
 ## Fundamental Dynamics Analysis
 
@@ -45,7 +45,7 @@ Make sure to update the placeholders [insert RMSD values],
 
 ## Protocol
 1. **System Setup:**
-   - Define the system: Ceramide Synthase 1 (CerS1) or Ceramide Synthase 2 (CerS2).
+   - Define the system: Ceramide Synthase 1 (CerS1) to Ceramide Synthase 6 (CerS6).
    - Select the OPLS force field to accurately represent molecular interactions.
    - Set up the initial coordinates and topologies for the system.
 
