@@ -61,7 +61,7 @@ Differences in the shape, peak positions, or spread of the histograms may indica
 
 ![CerS3 GIF](https://raw.githubusercontent.com/paulshamrat/230704_CerS/main/cers3.gif)
 
-**Fig. *Conformational Dynamics of Ceramide Synthase 3.*** In this simulation, the behavior of Ceramide Synthase 3 (CerS3) was investigated over a 5 nanosecond (ns) period. The OPLS force field was utilized to accurately represent the molecular interactions within the system. Throughout the simulation, CerS1 exhibited intriguing conformational changes, revealing the flexibility and adaptability of the enzyme.
+**Fig. *Conformational Dynamics of Ceramide Synthase 3.*** In this simulation, the behavior of Ceramide Synthase 3 (CerS3) was investigated over a 5 nanosecond (ns) period. The OPLS force field was utilized to accurately represent the molecular interactions within the system. Throughout the simulation, CerS3 exhibited intriguing conformational changes, revealing the flexibility and adaptability of the enzyme.
 
 ## Methods and Materials
 The following methodology outlines the general steps involved in a molecular dynamics simulation using the provided configuration files (ions.mdp, minim.mdp, nvt.mdp, npt.mdp, and md.mdp) with the GROMACS software package:
@@ -113,8 +113,6 @@ Save energies and coordinates at regular intervals for analysis.
 Analyze the trajectory and calculated properties of the system using various GROMACS tools and/or external software.
 Calculate properties such as energies, temperature, pressure, and structural features.
 Perform statistical analysis and visualizationof the simulation results to gain insights into the system's behavior and properties.
-
-## Total
 
 
 
