@@ -19,7 +19,7 @@ DATA: Human CerS three-dimensional models are available at [https://alphafold.eb
 ## Fundamental Dynamics Analysis
 
 ### RMSD Plot:
-  ![RMSD Plot](https://raw.githubusercontent.com/paulshamrat/230704_CerS/main/rmsd_plot.png)
+  ![RMSD Plot](https://raw.githubusercontent.com/paulshamrat/230704_CerS/main/rmsd_plot_1.png)
   The RMSD plot shows the deviation of each protein's structure from its initial conformation throughout the trajectory. It provides insights into the stability and structural changes of the ceramide synthase proteins over time.
 
 ### RMSF Plot (Cα atoms):
