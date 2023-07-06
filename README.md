@@ -1,5 +1,7 @@
 # Exploring Conformational Dynamics of Ceramide Synthases: Insights from Molecular Dynamics Simulations
 
+*This is a project to explore conformational dynamics of proteins through molecular simulation for learning purpose.*
+
 ## Abstract:
 Ceramide synthases (CerS) are enzymes crucial for ceramide synthesis and play diverse roles in cellular processes. In this simulation study, we investigated the behavior and dynamics of six ceramide synthase enzymes (CerS1-6). Employing an OPLS force field, we conducted a 5 ns molecular dynamics simulation to analyze their structural and functional characteristics. We utilized various output control parameters and implemented bond parameters to ensure simulation stability. Electrostatic interactions were calculated using the PME method, and temperature and pressure regulation were achieved through thermostats and barostats. The simulation revealed valuable insights into the dynamics of CerS enzymes, contributing to our understanding of lipid metabolism and cellular signaling.
 
