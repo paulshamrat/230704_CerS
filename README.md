@@ -13,7 +13,14 @@ For further exploration, three-dimensional models of human CerS proteins can be 
 
 ### RMSD Plot:
   ![RMSD Plot](https://raw.githubusercontent.com/paulshamrat/230704_CerS/main/rmsd_plot_1.png)
-  The RMSD plot shows the deviation of each protein's structure from its initial conformation throughout the trajectory. It provides insights into the stability and structural changes of the ceramide synthase proteins over time.
+  The RMSD plot reveals the deviation of CerS 1-6 structures from their initial conformations over the course of the simulation (Figure 1). Each protein is represented by a different line on the plot.
+
+The RMSD values indicate the average distance between the atoms of the proteins at different time points compared to their initial conformations. Lower RMSD values suggest smaller structural deviations, indicating relative stability and maintenance of the initial conformation. Conversely, higher RMSD values indicate larger structural changes or flexibility.
+
+Comparing the RMSD profiles of CerS 1-6, we observe distinct patterns of structural dynamics. CerS 1 and 2 exhibit relatively low and stable RMSD values throughout the simulation, suggesting a high degree of structural stability. CerS 3 shows initial fluctuations in RMSD, which gradually stabilize at a higher value, indicating a moderate degree of structural flexibility. CerS 4 and 5 display significant fluctuations and higher RMSD values, suggesting substantial structural changes or conformational transitions. CerS 6 exhibits a relatively stable RMSD profile with occasional fluctuations, indicating a balance between stability and flexibility.
+
+Discussion:
+The RMSD plot provides valuable insights into the structural dynamics of CerS 1-6. The observed differences in the RMSD profiles suggest variations in the stability and flexibility of these proteins. The stable RMSD profiles of CerS 1 and 2 indicate their robust structural maintenance, which may be related to their essential biological functions. The moderate flexibility of CerS 3 suggests potential conformational rearrangements associated with specific functional states. The pronounced fluctuations in RMSD observed for CerS 4 and 5 may indicate conformational changes required for their catalytic activity or interaction with other biomolecules. The balanced RMSD profile of CerS 6 suggests a potential regulatory role in cellular processes.
 
 ### RMSF Plot (Cα atoms):
   ![RMSF Plot (Cα atoms)](https://raw.githubusercontent.com/paulshamrat/230704_CerS/main/rmsf_ca.png)
