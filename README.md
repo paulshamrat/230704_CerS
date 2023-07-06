@@ -21,7 +21,7 @@ The RMSD plot provides valuable insights into the structural dynamics of CerS 1-
 
 ### RMSF Plot (Cα atoms):
   ![RMSF Plot (Cα atoms)](https://raw.githubusercontent.com/paulshamrat/230704_CerS/main/rmsf_ca.png)
-  The RMSF plot (Figure 1) displays the root-mean-square fluctuation (RMSF) profiles of the Cα atoms for ceramide synthase proteins 1 to 6 (CerS 1-6) obtained from the molecular dynamics simulation. The RMSF values represent the local flexibility of the protein residues throughout the simulation.
+  The RMSF plot (Figure 2) displays the root-mean-square fluctuation (RMSF) profiles of the Cα atoms for ceramide synthase proteins 1 to 6 (CerS 1-6) obtained from the molecular dynamics simulation. The RMSF values represent the local flexibility of the protein residues throughout the simulation.
 
 Analysis of the RMSF profiles provides insights into the regions of CerS 1-6 that exhibit high flexibility, which is crucial for understanding their functional dynamics.
 
@@ -41,7 +41,7 @@ The RMSF analysis provides valuable insights into the local flexibility of CerS 
 
 ### RG Plot:
   ![RG Plot](https://raw.githubusercontent.com/paulshamrat/230704_CerS/main/rg.png)
-  The presented plot (Figure 1) illustrates the radius of gyration (Rg) profiles for ceramide synthase proteins 1 to 6 (CerS 1-6) obtained from the molecular dynamics simulation. The Rg values provide insights into the overall compactness or size of the proteins throughout the simulation.
+  The presented plot (Figure 3) illustrates the radius of gyration (Rg) profiles for ceramide synthase proteins 1 to 6 (CerS 1-6) obtained from the molecular dynamics simulation. The Rg values provide insights into the overall compactness or size of the proteins throughout the simulation.
 
 Analysis of the Rg profiles allows us to understand the conformational stability and structural compactness of CerS 1-6, which are crucial factors in their functionality.
 
@@ -64,7 +64,7 @@ The analysis of the Rg profiles of CerS 1-6 sheds light on their conformational 
 ### Contact Analysis:
 ![Contact Analysis](https://raw.githubusercontent.com/paulshamrat/230704_CerS/main/contacts_analysis.png)
 
-The contact analysis plot (Figure 1) provides insights into the intermolecular contacts and residue interactions within the ceramide synthase proteins 1 to 6 (CerS 1-6) during the molecular dynamics simulation.
+The contact analysis plot (Figure 4) provides insights into the intermolecular contacts and residue interactions within the ceramide synthase proteins 1 to 6 (CerS 1-6) during the molecular dynamics simulation.
 
 By analyzing the contact analysis plot, we can gain information about the residue-level interactions and potential binding sites within the proteins.
 
@@ -85,7 +85,7 @@ The contact analysis plot highlights the residue-level interactions and potentia
 ### Elastic network analysis:
 ![Elastic network analysis](https://raw.githubusercontent.com/paulshamrat/230704_CerS/main/eigenvalue_plot.png)
 
-The eigenvalue plot (Figure 1) illustrates the results of the elastic network analysis performed on the ceramide synthase proteins 1 to 6 (CerS 1-6). The eigenvalues provide insights into the collective motions and flexibility of the proteins.
+The eigenvalue plot (Figure 5) illustrates the results of the elastic network analysis performed on the ceramide synthase proteins 1 to 6 (CerS 1-6). The eigenvalues provide insights into the collective motions and flexibility of the proteins.
 
 By analyzing the eigenvalue plot, we can gain information about the low-frequency modes of motion, which represent the most significant collective motions of the proteins.
 
@@ -108,7 +108,7 @@ The eigenvalue plot obtained from the elastic network analysis reveals the colle
 ### Using a Gaussian network model with only close contacts
 ![Using a Gaussian network model with only close contacts](https://raw.githubusercontent.com/paulshamrat/230704_CerS/main/eigenvalue-vs-frequency.png)
 
-The eigenvalue vs. frequency plot (Figure 1) represents the results of the Gaussian network model analysis with only close contacts performed on the ceramide synthase proteins 1 to 6 (CerS 1-6). This analysis provides insights into the collective motions and flexibility of the proteins based on the frequency of motion modes.
+The eigenvalue vs. frequency plot (Figure 6) represents the results of the Gaussian network model analysis with only close contacts performed on the ceramide synthase proteins 1 to 6 (CerS 1-6). This analysis provides insights into the collective motions and flexibility of the proteins based on the frequency of motion modes.
 
 By analyzing the eigenvalue vs. frequency plot, we can gain information about the low-frequency modes of motion and their corresponding eigenvalues, which represent the most significant collective motions of the proteins.
 
@@ -130,7 +130,7 @@ The eigenvalue vs. frequency plot obtained from the Gaussian network model analy
 
 ### Eigenvalues over time for each of the six trajectories in the ceramide synthase analysis
   ![Eigenvalues over time for each of the six trajectories in the ceramide synthase analysis](https://raw.githubusercontent.com/paulshamrat/230704_CerS/main/eigenvalue-vibrational-mode.png)
-  The eigenvalues over time plot (Figure 1) represents the results of eigenvalue analysis for each of the six trajectories of ceramide synthase proteins 1 to 6 (CerS 1-6). This analysis provides insights into the vibrational modes and their corresponding eigenvalues over the course of the simulations.
+  The eigenvalues over time plot (Figure 7) represents the results of eigenvalue analysis for each of the six trajectories of ceramide synthase proteins 1 to 6 (CerS 1-6). This analysis provides insights into the vibrational modes and their corresponding eigenvalues over the course of the simulations.
 
 By analyzing the eigenvalues over time plot, we can gain information about the changes in the vibrational modes and their associated eigenvalues throughout the trajectories.
 
